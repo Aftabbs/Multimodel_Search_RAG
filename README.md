@@ -68,4 +68,4 @@ The following libraries are commonly used in building multimodal search, RAG, an
 ## Conclusion
 Multimodal search and RAG represent significant advancements in information retrieval and content generation, allowing systems to understand and process multiple data types simultaneously. As a result, they provide more accurate, context-rich responses and recommendations, revolutionizing fields from e-commerce to healthcare.
 
-By leveraging libraries like `scikit-learn`, `UMAP-learn`, `TQDM`, and `Torch`, developers can build efficient and powerful multimodal search and RAG systems that cater to complex, real-world needs.
+By leveraging libraries like `scikit-learn`, `UMAP-learn`, `TQDM`, `openai`,`weaviate`,`google generativeai` and `Torch`, developers can build efficient and powerful multimodal search and RAG systems that cater to complex, real-world needs.
