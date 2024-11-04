@@ -1,6 +1,6 @@
 # Building Multimodal Search and Retrieval-Augmented Generation (RAG)
       
-![image](https://github.com/user-attachments/assets/f69eae43-5747-4dfa-b826-a7412a173e58)
+![image](https://github.com/user-attachments/assets/f69eae43-5747-4dfa-b826-a7412a173e58)    
     
 ## Overview
       
