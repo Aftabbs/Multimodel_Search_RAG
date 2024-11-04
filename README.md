@@ -8,7 +8,7 @@ In recent years, multimodal search and Retrieval-Augmented Generation (RAG) have
              
 This README introduces the core concepts of multimodal search, large multimodal models (LMMs), RAG, and their applications in various industries. It also covers how to build a multimodal recommendation system.
 
-## Key Concepts
+## Key Concepts     
 
 ![image](https://github.com/user-attachments/assets/9bb6e6ba-bfbc-4aaf-b126-95f971817842)
 
