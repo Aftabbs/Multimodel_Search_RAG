@@ -1,7 +1,7 @@
 # Building Multimodal Search and Retrieval-Augmented Generation (RAG)
 
 ![image](https://github.com/user-attachments/assets/f69eae43-5747-4dfa-b826-a7412a173e58)
-
+    
 ## Overview
       
 In recent years, multimodal search and Retrieval-Augmented Generation (RAG) have transformed the way we search and retrieve information by enabling the combination of multiple data types, such as text, images, and audio. Multimodal search leverages this diversity of data to provide more accurate and contextually rich search results, while RAG enhances traditional search by integrating retrieval mechanisms with generative AI models. Together, these technologies enable advanced information retrieval and context-aware content generation.
